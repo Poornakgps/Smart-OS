@@ -84,5 +84,4 @@ Smart-OS is a chatbot-driven application designed to control your operating syst
 
 For detailed setup instructions, please refer to the [Setup Instructions](#setup-instructions) section in this repository.
 
-Demo video : https://youtu.be/XrhToK-Hyx4
 
