@@ -11,7 +11,7 @@ Follow these steps to set up the project on your local machine.
 
 Clone the repository to your local machine using Git:
 
-git clone https://github.com/abdul786rasool/smart-os.git
+git clone https://github.com/Poornakgps/Smart-OS.git
 cd smart-os
 
 ### 2. Create and Activate a Virtual Environment
